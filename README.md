@@ -1,4 +1,4 @@
-# CML Serum Crotisol Level Prediction 
+# CML Serum Cortisol Level Deconvolution 
 
 The given data consists of a sparse vector `u` which was observed at times `tu`. Along with it is given the partial data for the serum cortisol concentration `y` which was sampled at regular intervals `ty`. [This paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085204) defines a model (with the unknowns `theta_1` and `theta_2` as the model parameters) that establishes a relationship between the discrete `y` and sparse `u`
 
