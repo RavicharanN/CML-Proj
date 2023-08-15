@@ -19,7 +19,7 @@ The code is presented in a Jypyter notebook and the implementation is as follows
 
 ## Results 
 
-* The `theta_1` and `theta_2` values were initialzed randomly but always convered at a single value close to ~ `0.73`.
+* The `theta_1` and `theta_2` values were initialzed randomly but always convered at a single value close to ~ `0.73` and `0.06` respectively.
 * The `estimated_y` was plotted against the `observed_y` and is shown in the plot marked at the end of the Python notebook. 
 
 ## References 
