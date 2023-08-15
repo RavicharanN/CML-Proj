@@ -10,7 +10,7 @@ Scipy and Numpy libraries were used to solve this problem, we first formulate an
 
 The code is presented in a Jypyter notebook and the implementation is as follows
 
-* Read the given data from the file and process it acc to our use case
+* Read the given data from the file and process it according to our use case
 * Define the model as per the paper and the objective function as mentioned above. 
 * Initialize the parameters `theta_1` and `theta_2` with any random non equal values.
 * Use `scipy.minimize` [method](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html) to minimize the objective function over the parametrs `theta_1` and `theta_2`. The `Nelder-Mead` [optimization](https://docs.scipy.org/doc/scipy/reference/optimize.minimize-neldermead.html#optimize-minimize-neldermead) was used to solve this problem. 
